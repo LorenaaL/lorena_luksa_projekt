@@ -19,25 +19,24 @@ display:inline;
   padding-left: 30px;
 }
 #jahaci li a {
-color: #000;
-background: #d9dbe1;
-border: 2px solid #455372;
-padding: 3px 5px 1px 5px;
-margin: 0px;
-text-decoration: none;
+  color: #000;
+  background: #d9dbe1;
+  border: 2px solid #455372; 
+  padding: 3px 5px 1px 5px;
+  margin: 0px;
+  text-decoration: none; 
 }
 #jahaci li a:hover {
-border-bottom-color: white;
-background-color: #eee;
-color: #455372;
+  border-bottom-color: white;
+  background-color: #eee;
+  color: #455372;
 }
 #jahaci li a:active {
-color: #c00;
+  color: #c00;
 }
-#aktivni{
-color:#000;
-background: #fff;
-border-bottom-color: white;
+#aktivni {
+  color: #000;
+  background: #fff;
+  border-bottom-color: white;
 }
-
 
