@@ -20,5 +20,11 @@ img.slika1
   width:654;
   height:800;
 }
+p.mercury
+{
+  border-style:solid; 
+  border-color:black;
+  text-align:centar;
+}
 
 
