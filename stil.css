@@ -46,4 +46,26 @@ p.may
   border-color:black;
   text-align:centar;
 }
+table.tablica3
+{
+  font-size: 20px;
+  width: 40%;
+  height: 20%;
+  cellpadding: 8;
+  cellspacing: 0;
+}
+img.slika4
+{
+  position:absolute;
+  top:60px;
+  right:50px;
+  width:421;
+  height:800;
+}
+p.deacon
+{
+  border-style:solid; 
+  border-color:black;
+  text-align:centar;
+}
 
