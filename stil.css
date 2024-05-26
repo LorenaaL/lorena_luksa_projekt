@@ -7,8 +7,9 @@ margin-top:2px;
 table.tablica1
 {
   valign: centar;
-  width: 60%;
-  height: 50%;
+  text-size: 30px;
+  width: 50%;
+  height: 30%;
   cellpadding: 8;
   cellspacing: 0;
 }
