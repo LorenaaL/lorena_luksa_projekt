@@ -7,7 +7,8 @@ margin-top:2px;
 table.tablica1
 {
   text-align: centar;
-  width: 40%;
+  width: 40;
+  height: 60;
   cellpadding: 8;
   cellspacing: 0;
 }
