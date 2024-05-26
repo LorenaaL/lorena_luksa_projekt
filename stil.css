@@ -8,13 +8,13 @@ table.tablica1
 {
   text-align: centar;
   width: 40%;
-  cellpadding: 10;
+  cellpadding: 8;
   cellspacing: 0;
 }
 img.slika1
 {
-  width: 220;
-  height: 220;
+  width: 500;
+  height: 560;
   position-y: top;
   position-x: right;
 }
