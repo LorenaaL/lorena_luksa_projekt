@@ -6,14 +6,15 @@ margin-top:2px;
 }
 table.tablica1
 {
-  width: 50%;
+  text-align: centar;
+  width: 40%;
   cellpadding: 10;
   cellspacing: 0;
 }
 img.slika1
 {
   width: 220;
-  height: 144;
+  height: 200;
   float: right;
 }
 
