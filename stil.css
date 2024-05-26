@@ -68,4 +68,22 @@ p.deacon
   border-color:black;
   text-align:centar;
 }
-
+table.tablica4
+{
+  font-size: 20px;
+  width: 40%;
+  height: 20%;
+  cellpadding: 8;
+  cellspacing: 0;
+}
+img.slika5
+{
+  position:absolute;
+  top:60px;
+  right:50px;
+}
+p.taylor
+{
+  border-style:solid; 
+  border-color:black;
+  text-align:centar;
