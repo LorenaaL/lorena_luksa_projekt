@@ -14,8 +14,9 @@ table.tablica1
 img.slika1
 {
   width: 220;
-  height: 200;
-  float: right;
+  height: 220;
+  position-y: top;
+  position-x: right;
 }
 
 
