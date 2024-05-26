@@ -17,8 +17,8 @@ img.slika1
 {
   width: 500;
   height: 570;
-  margin-left: 10px;
-  margin-top: 5px
+  position-top: 16px;
+  position-right: 40px;
 }
 
 
