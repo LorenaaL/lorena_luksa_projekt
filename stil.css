@@ -4,7 +4,7 @@ h1
 font-size: 90px
 margin-top:2px;
 }
-table.tablica1
+table.tablica
 {
   font-size: 20px;
   width: 40%;
@@ -20,39 +20,17 @@ img.slika1
   width:690;
   height:843;
 }
-p.mercury
+p.tekst
 {
   border-style:solid; 
   border-color:black;
   text-align:centar;
-}
-table.tablica2
-{
-  font-size: 20px;
-  width: 40%;
-  height: 20%;
-  cellpadding: 8;
-  cellspacing: 0;
 }
 img.slika3
 {
   position:absolute;
   top:60px;
   right:50px;
-}
-p.may
-{
-  border-style:solid; 
-  border-color:black;
-  text-align:centar;
-}
-table.tablica3
-{
-  font-size: 20px;
-  width: 40%;
-  height: 20%;
-  cellpadding: 8;
-  cellspacing: 0;
 }
 img.slika4
 {
@@ -62,28 +40,9 @@ img.slika4
   width:719;
   height:955;
 }
-p.deacon
-{
-  border-style:solid; 
-  border-color:black;
-  text-align:centar;
-}
-table.tablica4
-{
-  font-size: 20px;
-  width: 40%;
-  height: 20%;
-  cellpadding: 8;
-  cellspacing: 0;
-}
 img.slika5
 {
   position:absolute;
   top:60px;
   right:50px;
 }
-p.taylor
-{
-  border-style:solid; 
-  border-color:black;
-  text-align:centar;
