@@ -16,7 +16,8 @@ img.slika1
 {
   width: 500;
   height: 560;
-  float: right,top;
+  float: right;
+  margin-top: 5px
 }
 
 
