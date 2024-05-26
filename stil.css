@@ -7,7 +7,7 @@ margin-top:2px;
 table.tablica1
 {
   valign: centar;
-  font-size: 60px;
+  font-size: 40px;
   width: 50%;
   height: 30%;
   cellpadding: 8;
@@ -15,11 +15,9 @@ table.tablica1
 }
 img.slika1
 {
-  width: 500;
-  height: 570;
-  position:relative;
-  top:16px;
-  right:8px;
+  width: 600;
+  height: 670;
+  float:right;
 }
 
 
