@@ -54,7 +54,7 @@ img.slika5
   transform-style:preserve-3d;
   animation:rotate 35s linear infinite;
 }
-rotate{
+@keyframes rotate{
   from{
     transform:perspective(1200px) rotateY(0deg);
   }
