@@ -16,7 +16,7 @@ img.slika1
 {
   position:absolute;
   top:60px;
-  right:50px;
+  right:90px;
   width:690;
   height:843;
 }
@@ -31,13 +31,13 @@ img.slika3
 {
   position:absolute;
   top:60px;
-  right:50px;
+  right:90px;
 }
 img.slika4
 {
   position:absolute;
   top:60px;
-  right:50px;
+  right:90px;
   width:719;
   height:955;
 }
@@ -45,5 +45,5 @@ img.slika5
 {
   position:absolute;
   top:60px;
-  right:50px;
+  right:90px;
 }
