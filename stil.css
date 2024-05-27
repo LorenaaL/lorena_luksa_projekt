@@ -48,6 +48,11 @@ img.slika5
   top:60px;
   right:120px;
 }
+body{
+  margin:0;
+  height:100vh;
+  display:grid;
+}
 /*https://codepen.io/sparshgupta007/pen/gOeypaj*/
 .gallerija1{
   position:relative;
