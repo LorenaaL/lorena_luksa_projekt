@@ -47,6 +47,13 @@ img.slika5
   top:60px;
   right:120px;
 }
+body{
+  margin:0;
+  height:100vh;
+  display:grid;
+  place-items:center;
+  background-color:#010101;
+}
 .gallerija1{
   position:relative;
   width:300px;
