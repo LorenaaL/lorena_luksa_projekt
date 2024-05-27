@@ -4,6 +4,7 @@ h1
 font-size: 90px
 margin-top:2px;
 }
+ 
 table.tablica
 {
   font-size: 20px;
@@ -47,6 +48,7 @@ img.slika5
   top:60px;
   right:120px;
 }
+/*https://codepen.io/sparshgupta007/pen/gOeypaj*/
 .gallerija1{
   position:relative;
   width:300px;
