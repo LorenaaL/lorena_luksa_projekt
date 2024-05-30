@@ -1,12 +1,10 @@
 body
 {
 background-color: #bdb9b9;
-background-image: url("logo.jpg");
+background-image: url("logo1.jpg");
 background-position-y: bottom;
 background-position-x: left;
 background-repeat: no-repeat;
-  width:225px;
-  height:168px;
 }
 h1
 {
@@ -24,7 +22,6 @@ h3{
 table.tablica
 {
   font-size: 20px;
-  border: 1px;
   width: 40%;
   height: 20%;
   cellpadding: 8;
