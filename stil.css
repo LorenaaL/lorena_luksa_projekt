@@ -72,6 +72,7 @@ ul li a, ul li a:visited{
  text-decoration: none;
  margin: 6px;
  width: 100px;
+ text-size: 25px;
 }
 ul ul li a, ul ul li a:visited{
  display:block;
