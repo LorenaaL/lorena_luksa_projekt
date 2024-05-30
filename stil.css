@@ -51,6 +51,8 @@ ul li a:hover{
  text-decoration:none;
  font-size:25px;
  color:white;
+ position-x:left;
+ position-y:bottom;
 }
 img.bend
 {
