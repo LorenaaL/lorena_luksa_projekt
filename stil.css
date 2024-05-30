@@ -1,8 +1,15 @@
 body
 h1
 {
-font-size: 90px
+font-size: 90px;
 margin-top:2px;
+}
+h2
+{
+font-size: 70px;
+}
+h3{
+ font-size: 70px;
 }
  
 table.tablica
@@ -75,11 +82,9 @@ html,body{
   height:100%;
   width:100%;
 }
-
 .gallery:after{
   content:'';
 }
-
 .shadow{
   position: absolute;
   top: 500px;
@@ -88,12 +93,10 @@ html,body{
   height: 40px;
   border-radius: 50%;
 }
-
 img{
   width:var(--width);
   height:var(--height);
 }
-
 .clipped-border{
    padding:5px;
    width:var(--border-width);
@@ -106,27 +109,22 @@ img{
    position:absolute;
    cursor:pointer;
 }
-
 .clipped-border:hover:before{
   transform: translate(-100px,400%) rotate(45deg);
   transition:transform 0.5s;
 }
-
 .clipped-border:nth-child(2){
   top:0px;
   left:290px;
 }
-
 .clipped-border:nth-child(3){
   top:0px;
   left:580px;
 }
-
 .clipped-border:nth-child(4){
   top:200px;
   left:0px;
 }
-
 .clipped-border:nth-child(5){
   top:200px;
   left:290px;
