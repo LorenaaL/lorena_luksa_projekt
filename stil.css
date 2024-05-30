@@ -62,8 +62,7 @@ body{
 
 }
 
-.galerija{
-  background:radial-gradient(mistyrose,pink);
+.galerija{;
   height:100%;
   width:100%;
   position:relative;
@@ -179,3 +178,56 @@ body{
     width:100px;
     height:100px;
   }
+   .clipped-border:nth-child(2){
+    left:230px;
+  }
+  .clipped-border:nth-child(3){
+    left:460px;
+  }
+  .clipped-border:nth-child(4){
+    left:690px;
+  }
+  .clipped-border:nth-child(5){
+    left:920px;
+  }
+ .clipped-border:nth-child(6){
+    top:150px;
+    left:0px;
+  }
+ .clipped-border:nth-child(7){
+     top:150px;
+    left:230px;
+  }
+ .clipped-border:nth-child(8){
+     top:150px;
+    left:460px;
+  }
+  .clipped-border:nth-child(9){
+    top:150px;
+    left:690px;
+  }
+  .clipped-border:nth-child(10){
+    top:150px;
+    left:920px;
+  }
+  .clipped-border:nth-child(11){
+    top:300px;
+    left:0px;
+  }
+  .clipped-border:nth-child(12){
+    top:300px;
+    left:230px;
+  }
+  .clipped-border:nth-child(13){
+    top:300px;
+    left:460px;
+  }
+  .clipped-border:nth-child(14){
+    top:300px;
+    left:690px;
+  }
+  .clipped-border:nth-child(15){
+    top:300px;
+    left:920px;
+  }
+}
