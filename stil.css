@@ -96,7 +96,6 @@ img{
 
 .clipped-border{
    padding:5px;
-   background:linear-gradient(grey,lightgrey);
    width:var(--border-width);
    height:var(--border-height);
    max-height:250px;
@@ -106,22 +105,6 @@ img{
    transition:transform 0.2s;
    position:absolute;
    cursor:pointer;
-}
-
-
-
-.clipped-border:before{
-  content:'';
-  position:absolute;
-  opacity:0.5;
-  width:350px;
-  height:70px;
-  background:white;
-  top:0;
-  left:0;
-  z-index:1;
-  transform:rotate(45deg);
-  transition:transform 0.5s;
 }
 
 .clipped-border:hover:before{
