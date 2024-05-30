@@ -93,8 +93,8 @@ ul, li{
 }
 ul li a:hover{
  text-decoration:none;
- border-left-color: #;
- background-color: #;
+ border-left-color: #f21649;
+ background-color: #a14359;
 }
 
 :root{
