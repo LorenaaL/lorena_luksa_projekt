@@ -18,6 +18,7 @@ h3{
 table.tablica
 {
   font-size: 20px;
+  border: 1px;
   width: 40%;
   height: 20%;
   cellpadding: 8;
