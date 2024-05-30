@@ -64,7 +64,6 @@ body{
 }
 
 html,body{
-  background:radial-gradient(mistyrose,pink);
   height:100%;
   width:100%;
   position:relative;
@@ -88,7 +87,6 @@ html,body{
   width: 500px;
   height: 40px;
   border-radius: 50%;
-  background: radial-gradient(#805d78,rgba(0,0,0,0) 70%);
 }
 
 img{
@@ -97,8 +95,6 @@ img{
 }
 
 .clipped-border{
-  -webkit-clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
-   clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
    padding:5px;
    background:linear-gradient(grey,lightgrey);
    width:var(--border-width);
@@ -152,13 +148,46 @@ img{
   top:0;
   left:470px;
 }
-
-#clipped {
--webkit-clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
-clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
-
+.clipped-border:nth-child(6){
+  top:196px;
+  left:588px;
 }
-
+.clipped-border:nth-child(7){
+  top:0;
+  left:705px;
+}
+.clipped-border:nth-child(8){
+  top:196px;
+  left:823px;
+}
+.clipped-border:nth-child(9){
+  top:0;
+  left:940px;
+}
+.clipped-border:nth-child(10){
+  top:196px;
+  left:1058px;
+}
+.clipped-border:nth-child(11){
+  top:0;
+  left:1175px;
+}
+.clipped-border:nth-child(12){
+  top:196px;
+  left:1293px;
+}
+.clipped-border:nth-child(13){
+  top:0;
+  left:1410px;
+}
+.clipped-border:nth-child(14){
+  top:196px;
+  left:1528px;
+}
+.clipped-border:nth-child(15){
+  top:0;
+  left:1645px;
+}
 .clipped-border:hover{
   transform:scale(1.2);
   transition:transform 0.2s;
@@ -189,5 +218,45 @@ clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
   .clipped-border:nth-child(5){
     top:82px;
     left:150px;
+  }
+  .clipped-border:nth-child(6){
+    top:82px;
+    left:300px;
+  }
+  .clipped-border:nth-child(7){
+    top:82px;
+    left:400px;
+  }
+  .clipped-border:nth-child(8){
+    top:82px;
+    left:100px;
+  }
+  .clipped-border:nth-child(9){
+    top:82px;
+    left:200px;
+  }
+  .clipped-border:nth-child(10){
+    top:82px;
+    left:500px;
+  }
+  .clipped-border:nth-child(11){
+    top:82px;
+    left:600px;
+  }
+  .clipped-border:nth-child(12){
+    top:82px;
+    left:150px;
+  }
+  .clipped-border:nth-child(13){
+    top:82px;
+    left:250px;
+  }
+  .clipped-border:nth-child(14){
+    top:82px;
+    left:700px;
+  }
+  .clipped-border:nth-child(15){
+    top:82px;
+    left:50px;
   }
 }
