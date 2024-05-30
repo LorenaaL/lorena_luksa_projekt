@@ -1,6 +1,6 @@
 body
 {
-background-color: #45342f;
+background-color: #faeab9;
 background-image: url("logo.jpg");
 background-position-y: bottom;
 background-position-x: right;
@@ -10,12 +10,10 @@ h1
 {
 font-size: 70px;
 margin-top:2px;
-text-color:white;
 }
 h2
 {
 font-size: 45px;
-text-color:white;
 }
  
 table.tablica
