@@ -16,7 +16,9 @@ h2
 font-size: 45px;
 }
 ul,li{
- font-size:25px;
+ display:block;
+ text-decoration: none;
+ font-size:40px;
 }
 table.tablica
 {
