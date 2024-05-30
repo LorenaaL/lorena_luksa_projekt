@@ -5,6 +5,8 @@ background-image: url("logo.jpg");
 background-position-y: bottom;
 background-position-x: left;
 background-repeat: no-repeat;
+  width:225;
+  height:168;
 }
 h1
 {
