@@ -5,22 +5,24 @@ background-image: url("logo.jpg");
 background-position-y: bottom;
 background-position-x: right;
 background-repeat: no-repeat;
-text-color:white;
 }
 h1
 {
 font-size: 75px;
 margin-top:2px;
+color:white;
 }
 h2
 {
 font-size: 45px;
+color:white;
 }
 ul,li{
  display:block;
  text-decoration: none;
  font-size:30px;
  float:left;
+ color:white;
 }
  ul li a, ul li a:visited{
  display:block;
@@ -46,6 +48,7 @@ ul li a:hover{
  display:block;
  text-decoration:none;
  font-size:25px;
+ color:white;
 }
 
 table.tablica
