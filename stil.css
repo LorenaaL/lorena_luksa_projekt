@@ -60,6 +60,7 @@ table.tablica
   height: 20%;
   cellpadding: 8;
   cellspacing: 0;
+  color:white;
 }
 img.slika1
 {
@@ -72,9 +73,10 @@ img.slika1
 p.tekst
 {
   border-style:solid; 
-  border-color:black;
+  border-color:#67a396;
   text-align:centar;
   width: 40%;
+  color:white;
 }
 img.slika3
 {
