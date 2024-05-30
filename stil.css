@@ -21,8 +21,14 @@ ul,li{
  font-size:30px;
  float:left;
  margin:3px;
- 
 }
+kontakt
+{
+ display:block;
+ text-decoration:none;
+ font-size:20px;
+}
+
 table.tablica
 {
   font-size: 20px;
