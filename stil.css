@@ -136,12 +136,12 @@ img{
   left:870px;
 }
 .clipped-border:nth-child(7){
-  top:0px;
-  left:1160px;
-}
-.clipped-border:nth-child(8){
   top:200px;
   left:580px;
+}
+.clipped-border:nth-child(8){
+  top:0px;
+  left:1169px;
 }
 .clipped-border:nth-child(9){
   top:200px;
