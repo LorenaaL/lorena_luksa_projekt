@@ -52,7 +52,12 @@ ul li a:hover{
  font-size:25px;
  color:white;
 }
-
+img.bend
+{
+ position:absolute;
+ top:60px;
+ right:120px;
+}
 table.tablica
 {
   font-size: 20px;
@@ -83,8 +88,8 @@ img.slika3
   position:absolute;
   top:60px;
   right:120px;
-  width: 311px;
-  height: 608px
+  width: 320px;
+  height: 608px;
 }
 img.slika4
 {
