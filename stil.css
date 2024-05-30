@@ -1,6 +1,6 @@
 body
 {
-background-color: #faeab9;
+background-color: #;
 background-image: url("logo.jpg");
 background-position-y: bottom;
 background-position-x: right;
@@ -64,38 +64,8 @@ img.slika5
 }
 body{
   margin:0;
-  height:100vh;
+  height:100px;
   display:grid;
-}
-ul li a, ul li a:visited{
- display:block;
- text-decoration: none;
- margin: 6px;
- width: 100px;
- text-size: 25px;
-}
-ul ul li a, ul ul li a:visited{
- display:block;
- text-decoration: none;
- margin: 1px 1px 1px 15px;
- padding: 2px 0px 2px 5px;
- width: 108px;
- border-left-width: 4px;
- border-left-style: solid;
- border-left-color: blue;
-}
-ul, li{
- list-style:none;
- margin:0px;
- padding:0px;
- color:blue;
- text-style: bold;
- 
-}
-ul li a:hover{
- text-decoration:none;
- border-left-color: #f21649;
- background-color: #a14359;
 }
 
 :root{
