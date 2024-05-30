@@ -113,63 +113,63 @@ img{
 }
 
 .clipped-border:nth-child(2){
-  top:196px;
-  left:118px;
+  top:0px;
+  left:290px;
 }
 
 .clipped-border:nth-child(3){
   top:0px;
-  left:235px;
+  left:580px;
 }
 
 .clipped-border:nth-child(4){
-  top:392px;
-  left:353px;
+  top:200px;
+  left:0px;
 }
 
 .clipped-border:nth-child(5){
-  top:196px;
-  left:470px;
+  top:200px;
+  left:290px;
 }
 .clipped-border:nth-child(6){
   top:0px;
-  left:0px;
+  left:870px;
 }
 .clipped-border:nth-child(7){
-  top:392px;
-  left:118px;
+  top:0px;
+  left:1160px;
 }
 .clipped-border:nth-child(8){
-  top:196px;
+  top:200px;
   left:235px;
 }
 .clipped-border:nth-child(9){
-  top:0px;
-  left:353px;
+  top:200px;
+  left:870px;
 }
 .clipped-border:nth-child(10){
-  top:392px;
-  left:470px;
+  top:200px;
+  left:1160px;
 }
 .clipped-border:nth-child(11){
-  top:196px;
+  top:400px;
   left:0px;
 }
 .clipped-border:nth-child(12){
-  top:0px;
-  left:118px;
+  top:400px;
+  left:290px;
 }
 .clipped-border:nth-child(13){
-  top:392px;
-  left:235px;
+  top:400px;
+  left:580px;
 }
 .clipped-border:nth-child(14){
-  top:196px;
-  left:353px;
+  top:400px;
+  left:870px;
 }
 .clipped-border:nth-child(15){
-  top:0px;
-  left:470px;
+  top:400px;
+  left:1160px;
 }
 .clipped-border:hover{
   transform:scale(1.2);
