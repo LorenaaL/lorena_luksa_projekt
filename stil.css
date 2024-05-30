@@ -56,9 +56,9 @@ img.bend
 {
  position:absolute;
  top:60px;
- right:120px;
- width:500px;
- height:300px;
+ right:90px;
+ width:700px;
+ height:500px;
 }
 table.tablica
 {
@@ -90,7 +90,7 @@ img.slika3
   position:absolute;
   top:60px;
   right:120px;
-  width: 320px;
+  width: 350px;
   height: 608px;
 }
 img.slika4
