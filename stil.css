@@ -15,7 +15,9 @@ h2
 {
 font-size: 45px;
 }
- 
+ul,li{
+ font-size:25px;
+}
 table.tablica
 {
   font-size: 20px;
